@@ -8,4 +8,3 @@ vim.opt.relativenumber = true
 vim.g.python3_host_prog = "/Library/Frameworks/Python.framework/Versions/3.12/bin/python3"
 vim.env.PATH = vim.env.PATH .. ':/opt/homebrew/lib/ruby/gems/3.4.0/bin:/opt/homebrew/opt/ruby/bin'
 
-
